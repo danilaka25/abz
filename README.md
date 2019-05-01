@@ -1,68 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Тестовое задание на позицию фронтенд разработчика    В этом тестовом задании Ваша задача разработать фронтендчастьодностраничного                     респонсив сайта, дизайн которого мы специально разработали для данного задания.    ( ! ) ​Общая информация   1. Для разработки используйте​толькоодинизследующихфреймворков:Angular                   (​version ​6+) или React. Если один из этих фреймворков не будет использован –                         Ваша работа ​не будет принята​ к рассмотрению.   2. Требования для выполненного тестового задания:    a. Высылайте решение тестового задания на электронный адрес               hr@abz.agency​ в виде ссылки на  github/bitbucket репозиторий.   b. Также разверните Вашу работу на любом хостинге (чтобы ее можно                     было посмотретьвбраузеренеразворачиваяпроектизисходногокода)                     и вышлите нам ссылку.   c. Укажите в письме список выполненных пунктов и выбранный Вами                   фреймворк. Если Вы сделали не все пункты тестового задания –                     пожалуйста, укажите причину по которой Вы их не выполнили (не                     хватило времени, ​не ​хватает ​опыта/знания, ​что-то ​ещё).    Важно! Тестовое задание будет принято к рассмотрению только в случае если оно                         соблюдает требования, перечисленные выше.     3. Мы рекомендуем Вам использовать расширение ​“Pixel Perfect” в Google                   Chrome. Мы будем использовать эторасширениеприпроверкевыполненного                   тестового задания.   4. Все материалы, используемые в данном тестовом задании было специально                   разработаны для проверки Ваших знаний в рамках тестового задания для                     данной вакансии (прототипы, макеты, API, бэк-енд) и не имеют ничего общего                       с нашими коммерческими проектами. Ваши работы не будут использованы в                     коммерческих и (даже) некоммерческих целях. Вы также не имеете права                    
+www.abz.agency 
 
-## Available Scripts
+ 
+ +38 050 2542 789  hr@abz.agency​_  
+ 
+использовать текст и материалы данного тестового задания, а также Ваше                     решение данного задания в коммерческих и некоммерческих целях целях (в                     том числе в портфолио, для составления курсов или в качестве тестового                       задания в другой компании).    Технические требования  ● Angular (​version ​6+) / React;  ● HTML5 / CSS3;  ● Разметка должна быть pixel-perfect (desktop: последняя версия Chrome / FF /                       Safari / Edge, mobile/tablet: последняя версия Safari на iOS 11/12 и Chrome на                           Android 6/7/8);  ● Минимальная ширина экрана 320px;   ● Максимальная ширина экрана 2560px;  ● Максимальная ширина основного контейнера 1170px;  ● Разметка должна быть готова к переполнению содержимого, включая длину                   заголовка блока. Если текст длиннее чем может отображать блок - Вы должны                         его обрезать и показать знак «...» с помощью CSS или Javascript.    Важно! Мы будем обращать внимание,насколькочистыйуВасподходкнаписаниюCSS                           и Javascript-кода. Вы можете использовать любые сторонние библиотеки CSS и                     Javascript без каких-либо ограничений. Если в проект добавляются сторонние                   библиотеки CSS / Javascript через менеджеры зависимостей npm / yarn (а не методом                           копи-паста), Выполучитебонусныебаллы.ЕслиВыиспользуетелюбойtaskrunner(gulp/                           webpack), Вы также получите бонусные баллы.    Задание  1. Вам необходимо реализвать респонзив (responsive) верстку HTML5/CSS3 в                 соответствии с макетами (mockups) ​http://view.maquetter.com/ekwgbx/0201             0208 и стайл гайдом (style guide) ​http://view.maquetter.com/ekwgbx/0101​. Все                 необходимые исходники Вы сможете ​найти тут​. При желании, Вы можете                     ознакомиться с прототипами (​wireframes​).  
+www.abz.agency 
 
-In the project directory, you can run:
+ 
+ +38 050 2542 789  hr@abz.agency​_  
+ 
+  Все CTA (call to action) ссылки/кнопки должны вести на регистрацию. Ссылки в                         хэдере должны вести на соответствующие блоки на странице. Все остальные                     ссылки на странице должны вести на “#”. Обращаю Ваше внимание на тот                         факт, что хэдер должен быть закреплен вверху страницы при скролле. Также                       обратите внимание что:  1.1. Все изображения на сайте должны поддерживать Retina экраны.  1.2. Используйте CSS препроцессор (Sass/Less) или PostCSS.  1.3. Организуйте Ваши CSS стили в читаемом виде (группируйте CSS по                     функциональности, пишите разъясняющие комментарии, разделяйте           стили на несколько файлов по функциональности и т.д.).    2. Работа с REST API (GET). Тут Вы найдете ​API документацию​. Для проверки что                           все методы работают на стороне сервера можете использовать эту ​ссылку​.   2.1. Используйте параметр user_id=1 чтобы вывести пользователя в хэдере.                 Авторизации на сайте нет, Вам просто необходимо вывести                 полученные данные.   2.2. Используя полученные данные юзеров реализуйте вывод блока “Our                 cheerful users” в соответствии с макетом. Кнопка “Show more” должна                     подгружать ещё 6 пользователей из API. Кнопка “Show more” должна                     быть скрыта, когда больше нет пользователей в БД (достигнута                   последняя страницарезультатоввAPI).Пользователиотсортированыпо                 дате регистрации (новые первые).   2.3. Для отображения выпадающего списка в форме регистрации               используйте GET /positions метод из API документации.     3. Работа с REST API (POST) – форма регистрации  3.1. Реализовать валидацию на фронт-енд части в соответствии с макетами                   и API документацией.   3.2. Реализовать бизнес логику формы регистрации в соответствии с                 макетами и API документацией.  
+www.abz.agency 
 
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ 
+ +38 050 2542 789  hr@abz.agency​_  
+ 
+  Важно! Каждую ночь список пользователей будет автоматически сброшен (на                   начальные 45 пользователей).     3.3. После успешной регистрации обновить список пользователей в блоке                 “Our cheerful users”. Если кнопка “Show more” была нажата (т.е. Больше                       чем одна страница пользователей была загружена из API), то свернуть                     все и отобразить только первых 6 пользователей. В результате новый                     пользователь будет выведен первым и Вы сможете проверить                 корректность работы пункта 3.2 не перезагружая страницу.     4. Самостоятельное тестирование в следующих браузерах (можно использовать               BrowserStack):  4.1. Chrome, Firefox, Edge, Safari (Windows)  4.2. Chrome, Firefox, Safari (MacOS)  4.3. Chrome, Safari (iOS)  4.4. Chrome (Android)    5. Оптимизация вебсайта (бонусное задание на позицию джуниор и                 обязательное на позицию миддл). Минимизируйте и оптимизируйте css, js,                   изображения, и т.д. Для этого Вам необходимо развернуть Вашу работу на                       любом доступном Вам хостинге и направить на него любой доступный Вам                       домен.   5.1. Проверьте Вашу работу используя Google Page Speed и убедитесь что                     Ваша работа в зеленой зоне.   5.2. Проверьте Вашу работу используя Google Chrome Audit и убедитесь что                     Ваша работа в зеленой зоне для Performance, Best practices, SEO(mobile                       and desktop для 3G).  5.3. Проверьте Вашу работу используя Webpagetest и убедитесь что                 показатели близки к AAAAAA.  
