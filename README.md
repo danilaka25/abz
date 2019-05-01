@@ -1,8 +1,6 @@
-<div style="position:absolute;left:50%;margin-left:-306px;top:0px;width:612px;height:792px;border-style:outset;overflow:hidden">
-<div style="position:absolute;left:0px;top:0px">
-<img src="c656f390-6c07-11e9-9d71-0cc47a792c0a_id_c656f390-6c07-11e9-9d71-0cc47a792c0a_files/background1.jpg" width="612" height="792"></div>
-<div style="position:absolute;left:468.58px;top:26.51px" class="cls_003"><span class="cls_003">+38 050 2542 789</span></div>
-<div style="position:absolute;left:477.00px;top:39.26px" class="cls_003"><span class="cls_003">hr@abz.agency</span><span class="cls_004">_</span></div>
+
+
+
 <div style="position:absolute;left:72.00px;top:106.00px" class="cls_005"><span class="cls_005">Тестовое задание на позицию фронтенд разработчика</span></div>
 <div style="position:absolute;left:72.00px;top:151.01px" class="cls_007"><span class="cls_007">В этом тестовом задании Ваша задача разработать фронтенд часть одностраничного</span></div>
 <div style="position:absolute;left:72.00px;top:170.51px" class="cls_007"><span class="cls_007">респонсив сайта, дизайн которого мы специально разработали для данного задания.</span></div>
@@ -32,5 +30,4 @@
 <div style="position:absolute;left:108.00px;top:658.01px" class="cls_007"><span class="cls_007">данной вакансии (прототипы, макеты, API, бэк-енд) и не имеют ничего общего</span></div>
 <div style="position:absolute;left:108.00px;top:677.51px" class="cls_007"><span class="cls_007">с нашими коммерческими проектами. Ваши работы не будут использованы в</span></div>
 <div style="position:absolute;left:108.00px;top:697.01px" class="cls_007"><span class="cls_007">коммерческих и (даже) некоммерческих целях. Вы также не имеете права</span></div>
-<div style="position:absolute;left:480.75px;top:722.51px" class="cls_003"><span class="cls_003"> </span><a href="http://www.abz.agency/">www.abz.agency</a> </div>
-</div>
+
